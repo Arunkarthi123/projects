@@ -15,7 +15,7 @@ This project implements a deep learning model using Convolutional Neural Network
   - [Classify a Single Image](#classify-a-single-image)
   - [Visualization](#visualization)
 - [Results](#results)
-- [Contributing](#conResults
+- [Contributing](#Contributing)
 Training and Validation Accuracy
 
 Training and Validation Accuracy
