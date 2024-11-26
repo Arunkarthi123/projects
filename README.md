@@ -111,13 +111,13 @@ python visualize.py
 ## results
 Training and Validation Accuracy
 
-Training and Validation Accuracy
+Training and Validation Accurahttps://github.com/DanishaDScy
 Confusion Matrix
 
 Confusion Matrix
 
 The CNN model achieved a high accuracy on both training and validation sets, and the confusion matrix shows the performance on the test data.
-##contributing
+## Contributing
 Contributions are welcome! If you have any suggestions or improvements, please feel free to submit a pull request.
 
     Fork the project.
@@ -131,7 +131,7 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 ```markdown
 
-## Instructions for Use:
+ Instructions for Use:
 1. Replace Placeholder URLs: Ensure to replace the placeholder URLs (like `https://github.com/your-username/fire-smoke-detection.git`) with your actual repository URL.
 2. Images: Place output images (like accuracy plots and confusion matrices) in the `/images/` folder and reference them correctly in the README.
 3. Python Scripts: Make sure to create the corresponding Python scripts (`clean_data.py`, `train.py`, `evaluate.py`, `classify.py`, `visualize.py`) as indicated.
