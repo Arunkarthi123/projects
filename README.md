@@ -16,15 +16,6 @@ This project implements a deep learning model using Convolutional Neural Network
   - [Visualization](#visualization)
 - [Results](#results)
 - [Contributing](#Contributing)
-Training and Validation Accuracy
-
-Training and Validation Accuracy
-Confusion Matrix
-
-Confusion Matrix
-
-The CNN model achieved a high accuracy on both training and validation sets, and the confusion matrix shows the performance on the test data.
-tributing)
 - [License](#license)
 
 ---
