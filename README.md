@@ -131,10 +131,10 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 ```markdown
 
-### Instructions for Use:
-1. **Replace Placeholder URLs**: Ensure to replace the placeholder URLs (like `https://github.com/your-username/fire-smoke-detection.git`) with your actual repository URL.
-2. **Images**: Place output images (like accuracy plots and confusion matrices) in the `/images/` folder and reference them correctly in the README.
-3. **Python Scripts**: Make sure to create the corresponding Python scripts (`clean_data.py`, `train.py`, `evaluate.py`, `classify.py`, `visualize.py`) as indicated.
+Instructions for Use:
+1. Replace Placeholder URLs: Ensure to replace the placeholder URLs (like `https://github.com/your-username/fire-smoke-detection.git`) with your actual repository URL.
+2. Images: Place output images (like accuracy plots and confusion matrices) in the `/images/` folder and reference them correctly in the README.
+3. Python Scripts: Make sure to create the corresponding Python scripts (`clean_data.py`, `train.py`, `evaluate.py`, `classify.py`, `visualize.py`) as indicated.
 
 This README should provide a comprehensive overview of your project, making it easier for others to understand and contribute. Let me know if you need further changes!
 ```
